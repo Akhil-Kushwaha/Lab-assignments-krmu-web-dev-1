@@ -80,9 +80,6 @@ section {
   border: 3px solid #3b3f46;
 }
 
-/* ===== Projects Section ===== */
-
-
 /* ===== Skills Table ===== */
 #skills table {
   width: 100%;
@@ -160,4 +157,5 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
 
